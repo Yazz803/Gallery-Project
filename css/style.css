@@ -96,6 +96,9 @@ a {
     h1 {
         font-size: 20px;
     }
+    .top-bar svg {
+        color: black;
+    }
     .top {
         margin-right: 10px;
         margin-left: 10px;
