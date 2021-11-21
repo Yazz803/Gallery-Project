@@ -71,6 +71,9 @@ body {
         top: 25%;
         right: 0;
     }
+    .top svg {
+        color: black;
+    }
 }
 
 /* bottom */
