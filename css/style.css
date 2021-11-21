@@ -119,7 +119,9 @@ a {
     .top svg {
         top: 13px;
     }
-
+    .bottom {
+        margin-left: 0;
+    }
     .bottom img {
         width: 90px;
         height: 90px;
